@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Information Technology, UI/UX Designing, Front end Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RNMunasinghe](https://github.com/RNMunasinghe)
+- 👨‍💻 All of my projects are available at [[https://github.com/RNMunasinghe](https://github.com/RNMunasinghe)](https://github.com/RN-Munasinghe)
 
-- 👨‍💻 All of my projects are available at [https://linkedin.com/in/RuwiniMunasinghe](https://linkedin.com/in/RuwiniMunasinghe)
+- 👨‍💻 All of my projects are available at [[https://linkedin.com/in/RuwiniMunasinghe](https://linkedin.com/in/RuwiniMunasinghe)](https://www.linkedin.com/in/ruwini-munasinghe-35954b233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFdPLNwDvReGPzMI4Z9IQOQ%3D%3D)
 
 - 📫 How to reach me **ruwini1024@gmail.com**
 
