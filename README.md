@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ruwini1024@gmail.com**
 
+- 👨‍💻 My Portfolio [https://ruwini1024.wixsite.com/myportfolio](https://ruwini1024.wixsite.com/myportfolio)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruwinimunasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruwinimunasinghe" height="30" width="40" /></a>
