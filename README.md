@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ruwini1024@gmail.com**
 
-- 👨‍💻 My Portfolio [https://ruwini1024.wixsite.com/myportfolio](https://ruwini1024.wixsite.com/myportfolio)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
